@@ -12,7 +12,6 @@ target 'Swift Food' do
   pod 'Alamofire', '~> 5.2'
   pod 'RxAlamofire', '~> 5.3'
   pod 'Moya/RxSwift', '~> 14.0'
-  pod 'ScrollingPageControl', '~> 0.1.2'
   pod 'Resolver', '~> 1.1.4'
   pod 'Kingfisher', '~> 5.15.6'
 
