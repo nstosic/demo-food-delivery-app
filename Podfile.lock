@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (5.3.0)
+  - Kingfisher (5.15.6):
+    - Kingfisher/Core (= 5.15.6)
+  - Kingfisher/Core (5.15.6)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - Resolver (1.1.4)
+  - RxAlamofire (5.6.2):
+    - RxAlamofire/Core (= 5.6.2)
+  - RxAlamofire/Core (5.6.2):
+    - Alamofire (~> 5.2)
+    - RxSwift (~> 5.1)
+  - RxBlocking (5.1.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxTest (5.1.1):
+    - RxSwift (~> 5)
+  - ScrollingPageControl (0.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher (~> 5.15.6)
+  - Moya/RxSwift (~> 14.0)
+  - Resolver (~> 1.1.4)
+  - RxAlamofire (~> 5.3)
+  - RxBlocking (~> 5.0)
+  - RxCocoa (~> 5.0)
+  - RxSwift (~> 5.0)
+  - RxTest (~> 5.0)
+  - ScrollingPageControl (~> 0.1.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Moya
+    - Resolver
+    - RxAlamofire
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - ScrollingPageControl
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Resolver: 1f4c046255cbadfa97094692e16e940d4329779f
+  RxAlamofire: aa949d345b1689eae02b7c7a217518878144f6df
+  RxBlocking: 5f700a78cad61ce253ebd37c9a39b5ccc76477b4
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxTest: 711632d5644dffbeb62c936a521b5b008a1e1faa
+  ScrollingPageControl: 94dc11078ee5d0cd6c11a1eef46aa181d70b227c
+
+PODFILE CHECKSUM: 7985bad22ab3382e93c29f499034c2f7bef2013d
+
+COCOAPODS: 1.9.3
